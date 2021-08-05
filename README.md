@@ -1,3 +1,3 @@
 # Open_CV
 
-مهمة التعرف على الوجه من خلال صوره او فديو
+The task of recognizing the face through a photo or video
